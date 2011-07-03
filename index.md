@@ -31,7 +31,7 @@ Strong developer skills include experience with all modern ruby tools:
 * Frontend: JavaScript, jQuery, CoffeeScript, Erb, Haml, Sass, Less, HTML, CSS
 * Others: Sphinx Search, Lucene, Redis, Memcached, Git, Subversion, Redmine, Vim
 
-Examples of my code you can find on my github profile: http://github.com/useruby
+Examples of my code you can find on my <a href="http://github.com/useruby">github profile</a>
 
 Experience
 ----------
